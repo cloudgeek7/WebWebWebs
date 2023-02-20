@@ -33,7 +33,7 @@
   "dependencies": {
     "acme-client": "^4.1.2",
     "comfyclock": "^1.0.0",
-    "debug": "^4.3.1",
+    "debug": "^4.3.4",
     "webwebweb": "^1.4.6"
   }
 }
